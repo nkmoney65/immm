@@ -1,0 +1,9 @@
+Email: test@example.com
+Password: testpassword123
+Attempt: #1
+IP: ::1
+Location: Unknown | Unknown
+Browser: curl/8.12.1
+Domain: example.com
+Timestamp: 2025-08-05 09:12:21
+-----------------------------------
